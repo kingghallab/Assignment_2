@@ -1,11 +1,12 @@
-// File: CS112_A2_T2_S5_20230207_20230045_Ammar.............cpp
+// File: CS112_A2_T2_S5_20230207_20230045_20230561.cpp
 // Purpose: 3 Cipher Algorithms corresponding to the latest digit in our IDs 
 // Author: Adham Mahmoud Mohamed Ghallab, Ammar ......... Sayed, Abdelrahman Khaled Mohamed Sonosy
-// Who did which cipher: ......................................................
-// Emails: ...............................
-// IDs: 20230045 --> Substitution Cipher
-// 20230207 --> Morris Code
-// 
+// Emails: 11410120230045@stud.cu.edu.eg
+
+
+// IDs + Who did which cipher: 20230045 --> Substitution Cipher
+//                             20230207 --> Morris Code
+//                             20230561 --> 
 
 #include <cctype>
 #include <string>
